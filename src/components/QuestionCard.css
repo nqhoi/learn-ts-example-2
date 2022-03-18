@@ -1,0 +1,14 @@
+.QuestionCard {
+  font-size: 20px;
+  color: #fff;
+}
+
+.QuestionCard-answer button {
+  width: 500px;
+  padding: 12px 0;
+  margin: 8px 0;
+}
+
+.QuestionCard-answer button span {
+  font-size: 14px;
+}
